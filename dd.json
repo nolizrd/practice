@@ -1,0 +1,1497 @@
+﻿[
+  {
+    "address": {
+      "building_id": "70030076347498213",
+      "components": [
+        {
+          "number": "7",
+          "street": "улица Гоголя",
+          "street_id": "70030076347479172",
+          "type": "street_number"
+        }
+      ],
+      "postcode": "664023"
+    },
+    "address_name": "улица Гоголя, 7",
+    "adm_div": [
+      { "id": "1", "name": "Россия", "type": "country" },
+      {
+        "id": "1267655302447152",
+        "name": "Иркутская область",
+        "type": "region"
+      },
+      {
+        "id": "1549125984190544",
+        "name": "Ольхонский район",
+        "type": "district_area"
+      },
+      {
+        "city_alias": "irkutsk",
+        "id": "70030076128205405",
+        "name": "с. Сахюрта",
+        "type": "settlement"
+      }
+    ],
+    "city_alias": "irkutsk",
+    "context": {},
+    "external_content": [],
+    "floors": { "ground_count": 1 },
+    "full_name": "Сахюрта, улица Гоголя, 7",
+    "geometry": {
+      "centroid": "POINT(106.877636 53.015623)",
+      "selection": "POINT(106.877636 53.015623)"
+    },
+    "group": [
+      {
+        "id": "70000001062082020",
+        "is_main_in_group": true,
+        "org_id": "70000001062082019",
+        "rubric_id": "547",
+        "type": "branch"
+      }
+    ],
+    "has_apartments_info": false,
+    "has_realty": false,
+    "id": "70030076347498213",
+    "links": {
+      "database_entrances": [
+        {
+          "geometry": {
+            "normals": [
+              "LINESTRING(105.944327 52.656494,106.877619 53.015614)"
+            ],
+            "points": ["POINT(106.87761878191151 53.015614090617355)"],
+            "vectors": ["LINESTRING(106.877493 53.015566,106.877619 53.015614)"]
+          },
+          "id": "70030076463275834",
+          "is_primary": false,
+          "is_visible_on_map": true
+        }
+      ],
+      "entrances": [
+        {
+          "geometry": {
+            "normals": [
+              "LINESTRING(105.944327 52.656494,106.877619 53.015614)"
+            ],
+            "points": ["POINT(106.87761878191151 53.015614090617355)"],
+            "vectors": ["LINESTRING(106.877493 53.015566,106.877619 53.015614)"]
+          },
+          "id": "70030076463275834",
+          "is_primary": false,
+          "is_visible_on_map": true
+        }
+      ],
+      "nearest_stations": [
+        {
+          "distance": 320,
+          "id": "70030076542990881",
+          "name": "с. Сахюрта",
+          "route_types": ["bus"]
+        }
+      ]
+    },
+    "locale": "ru_RU",
+    "name": "улица Гоголя, 7",
+    "point": { "lat": 53.015623, "lon": 106.877636 },
+    "purpose_code": 4,
+    "purpose_name": "База отдыха",
+    "region_id": "11",
+    "reviews": { "items": [{ "is_reviewable": true, "tag": "2gis_reviews" }] },
+    "segment_id": "0",
+    "stat": { "adst": 1608260400 },
+    "structure_info": { "material": "Дерево" },
+    "type": "building"
+  },
+  {
+    "address": {
+      "building_id": "70030076347498213",
+      "components": [
+        {
+          "number": "7",
+          "street": "улица Гоголя",
+          "street_id": "70030076347479172",
+          "type": "street_number"
+        }
+      ],
+      "postcode": "664023"
+    },
+    "address_name": "улица Гоголя, 7",
+    "adm_div": [
+      { "id": "1", "name": "Россия", "type": "country" },
+      {
+        "id": "1267655302447152",
+        "name": "Иркутская область",
+        "type": "region"
+      },
+      {
+        "id": "1549125984190544",
+        "name": "Ольхонский район",
+        "type": "district_area"
+      },
+      {
+        "city_alias": "irkutsk",
+        "id": "70030076128205405",
+        "name": "с. Сахюрта",
+        "type": "settlement"
+      }
+    ],
+    "attribute_groups": [
+      {
+        "attributes": [
+          {
+            "id": "70000201006754255",
+            "name": "Проживание от 3000 ₽",
+            "tag": "hotel_prozhot"
+          },
+          {
+            "id": "70000201006748200",
+            "name": "Можно с животными",
+            "tag": "hotel_details_animals"
+          },
+          {
+            "id": "70000201006755991",
+            "name": "Бани",
+            "tag": "hotel_details_bathhouse"
+          },
+          {
+            "id": "70000201006748204",
+            "name": "Детский уголок",
+            "tag": "hotel_details_playground"
+          },
+          {
+            "id": "70000201006754181",
+            "name": "Беседки",
+            "tag": "hotel_details_gardenhouse"
+          },
+          {
+            "id": "70000201006755940",
+            "name": "Глэмпинг",
+            "tag": "hotel_details_glampingbaz"
+          },
+          {
+            "id": "70000201006748217",
+            "name": "Своя парковка",
+            "tag": "hotel_details_parking"
+          }
+        ],
+        "icon_url": "https://disk.2gis.com/rubricator/hotels034b967873b09c77379059b49cf90b6e.svg",
+        "is_context": false,
+        "is_primary": true,
+        "name": "Пожить",
+        "rubric_ids": ["547", "52681", "269", "23469", "19487", "111005"]
+      },
+      {
+        "attributes": [
+          {
+            "id": "70000201006748364",
+            "name": "Час 2500 ₽",
+            "tag": "sauna_hour_price"
+          },
+          {
+            "id": "70000201006748354",
+            "name": "До 10 человек",
+            "tag": "sauna_capacity_sauna"
+          },
+          {
+            "id": "70000201006748375",
+            "name": "Русская парная",
+            "tag": "sauna_steam_type_russian_bath"
+          },
+          {
+            "id": "70000201006748379",
+            "name": "Русская парная на дровах",
+            "tag": "sauna_steam_type_russian_firewood_bath"
+          },
+          {
+            "id": "70000201006748371",
+            "name": "Беседки",
+            "tag": "sauna_infrastructure_pavilion"
+          },
+          {
+            "id": "70000201006748357",
+            "name": "Комната отдыха",
+            "tag": "sauna_details_sauna_special_room"
+          },
+          {
+            "id": "70000201006757322",
+            "name": "Мангал",
+            "tag": "sauna_details_sauna_mangal"
+          },
+          { "id": "70000201006748720", "name": "Wi-Fi", "tag": "sauna_wifi" }
+        ],
+        "icon_url": "https://disk.2gis.com/rubricator/sauna3c41dac201a326ea24e5f2862d305ceb.svg",
+        "is_context": false,
+        "is_primary": false,
+        "name": "Бани / Сауны",
+        "rubric_ids": ["946"]
+      },
+      {
+        "attributes": [
+          {
+            "id": "70000201006749100",
+            "name": "Аренда мангала",
+            "tag": "summer_house_roaster_rent"
+          }
+        ],
+        "is_context": false,
+        "is_primary": false,
+        "name": "Аренда беседок",
+        "rubric_ids": ["110305"]
+      },
+      {
+        "attributes": [
+          {
+            "id": "70000201006748560",
+            "name": "Wi-Fi",
+            "tag": "additionally_services_wifi"
+          },
+          {
+            "id": "70000201006756618",
+            "name": "Трансфер",
+            "tag": "additionally_services_airport_transfer"
+          },
+          {
+            "id": "70000201006756619",
+            "name": "Круглосуточная стойка регистрации",
+            "tag": "additionally_services_reception_desk"
+          }
+        ],
+        "icon_url": "https://disk.2gis.com/rubricator/hotels034b967873b09c77379059b49cf90b6e.svg",
+        "is_context": false,
+        "is_primary": true,
+        "name": "Дополнительно",
+        "rubric_ids": [
+          "305",
+          "111593",
+          "15791",
+          "652",
+          "162",
+          "110351",
+          "51459",
+          "165",
+          "173",
+          "611",
+          "547",
+          "18547",
+          "110357",
+          "269",
+          "110352",
+          "405",
+          "110998",
+          "111005",
+          "159",
+          "161",
+          "19499",
+          "166",
+          "52681",
+          "110346",
+          "112658",
+          "164",
+          "7689",
+          "72370",
+          "19487"
+        ]
+      },
+      {
+        "attributes": [
+          {
+            "id": "70000201006750805",
+            "name": "Оплата картой",
+            "tag": "general_payment_type_card"
+          },
+          {
+            "id": "70000201006750769",
+            "name": "Наличный расчёт",
+            "tag": "general_payment_type_cash"
+          },
+          {
+            "id": "70000201006750775",
+            "name": "Оплата через банк",
+            "tag": "general_payment_type_bank"
+          },
+          {
+            "id": "70000201006756021",
+            "name": "Перевод с карты",
+            "tag": "general_payment_type_transfercard"
+          },
+          {
+            "id": "70000201006756648",
+            "name": "Оплата по QR-коду",
+            "tag": "general_payment_type_qrcode"
+          }
+        ],
+        "is_context": false,
+        "is_primary": false,
+        "name": "Способы оплаты",
+        "rubric_ids": []
+      }
+    ],
+    "city_alias": "irkutsk",
+    "contact_groups": [
+      {
+        "contacts": [
+          {
+            "type": "phone",
+            "text": "+7‒995‒049‒25‒49",
+            "print_text": "+7‒995‒049‒25‒49",
+            "value": "+79950492549"
+          },
+          {
+            "type": "whatsapp",
+            "text": "https://wa.me/79950492549?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A",
+            "value": "https://wa.me/79950492549?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A",
+            "url": "https://wa.me/79950492549?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A"
+          }
+        ]
+      }
+    ],
+    "context": {},
+    "dates": { "updated_at": "2024-07-04T11:21:33.000Z" },
+    "external_content": [
+      {
+        "count": 50,
+        "main_photo_url": "https://i7.photo.2gis.com/main/branch/11/70000001062082020/common",
+        "subtype": "common",
+        "type": "photo_album"
+      }
+    ],
+    "flags": { "photos": true },
+    "floors": { "ground_count": 1 },
+    "full_name": "Сахюрта, улица Гоголя, 7",
+    "geometry": {
+      "centroid": "POINT(106.877636 53.015623)",
+      "selection": "POINT(106.877636 53.015623)"
+    },
+    "group": [{ "id": "70030076347498213", "type": "building" }],
+    "has_apartments_info": false,
+    "has_discount": false,
+    "has_dynamic_congestion": false,
+    "has_exchange": false,
+    "has_goods": true,
+    "has_pinned_goods": true,
+    "has_realty": false,
+    "id": "70000001062082020_5543437A6BG23H83014GGG0G32443395G6G41B7334418513qEpt7A858J137G6G1J73578J3344uv7504151013381H1J3HHHGJH0I9147BgA",
+    "is_promoted": false,
+    "links": {
+      "database_entrances": [
+        {
+          "geometry": {
+            "normals": [
+              "LINESTRING(105.944327 52.656494,106.877619 53.015614)"
+            ],
+            "points": ["POINT(106.87761878191151 53.015614090617355)"],
+            "vectors": ["LINESTRING(106.877493 53.015566,106.877619 53.015614)"]
+          },
+          "id": "70030076463275834",
+          "is_primary": false,
+          "is_visible_on_map": true
+        }
+      ],
+      "entrances": [
+        {
+          "geometry": {
+            "normals": [
+              "LINESTRING(105.944327 52.656494,106.877619 53.015614)"
+            ],
+            "points": ["POINT(106.87761878191151 53.015614090617355)"],
+            "vectors": ["LINESTRING(106.877493 53.015566,106.877619 53.015614)"]
+          },
+          "id": "70030076463275834",
+          "is_primary": false,
+          "is_visible_on_map": true
+        }
+      ],
+      "nearest_stations": [
+        {
+          "distance": 320,
+          "id": "70030076542990881",
+          "name": "с. Сахюрта",
+          "route_types": ["bus"]
+        }
+      ]
+    },
+    "locale": "ru_RU",
+    "name": "Усадьба Галимовых",
+    "name_ex": {
+      "primary": "Усадьба Галимовых",
+      "short_name": "Усадьба Галимовых"
+    },
+    "org": {
+      "branch_count": 1,
+      "id": "70000001062082019",
+      "name": "Усадьба Галимовых"
+    },
+    "poi_category": "hotel_rest",
+    "point": { "lat": 53.015623, "lon": 106.877636 },
+    "purpose_code": 4,
+    "purpose_name": "База отдыха",
+    "region_id": "11",
+    "reviews": {
+      "general_rating": 4.8,
+      "general_review_count": 17,
+      "general_review_count_with_stars": 19,
+      "is_reviewable": true,
+      "is_reviewable_on_flamp": true,
+      "items": [
+        { "is_reviewable": true, "tag": "2gis_reviews" },
+        { "is_reviewable": true, "tag": "flamp" }
+      ],
+      "org_rating": 4.8,
+      "org_review_count": 17,
+      "org_review_count_with_stars": 19
+    },
+    "rubrics": [
+      {
+        "alias": "kempingi",
+        "id": "70348",
+        "kind": "additional",
+        "name": "Кемпинги",
+        "parent_id": "8",
+        "short_id": 70348
+      },
+      {
+        "alias": "bazy_otdykha",
+        "id": "547",
+        "kind": "primary",
+        "name": "Базы отдыха",
+        "parent_id": "8",
+        "short_id": 547
+      },
+      {
+        "alias": "arenda_besedok",
+        "id": "110305",
+        "kind": "additional",
+        "name": "Аренда беседок",
+        "parent_id": "2",
+        "short_id": 110305
+      },
+      {
+        "alias": "prokat_sportivnogo_inventarya_tekhniki",
+        "id": "309",
+        "kind": "additional",
+        "name": "Прокат спортивного инвентаря / техники",
+        "parent_id": "8",
+        "short_id": 309
+      },
+      {
+        "alias": "bani_sauny",
+        "id": "946",
+        "kind": "additional",
+        "name": "Бани / Сауны",
+        "parent_id": "2",
+        "short_id": 946
+      }
+    ],
+    "schedule": {
+      "Fri": { "working_hours": [{ "from": "00:00", "to": "24:00" }] },
+      "Mon": { "working_hours": [{ "from": "00:00", "to": "24:00" }] },
+      "Sat": { "working_hours": [{ "from": "00:00", "to": "24:00" }] },
+      "Sun": { "working_hours": [{ "from": "00:00", "to": "24:00" }] },
+      "Thu": { "working_hours": [{ "from": "00:00", "to": "24:00" }] },
+      "Tue": { "working_hours": [{ "from": "00:00", "to": "24:00" }] },
+      "Wed": { "working_hours": [{ "from": "00:00", "to": "24:00" }] },
+      "comment": "по предварительному звонку",
+      "is_24x7": true
+    },
+    "segment_id": "0",
+    "stat": {
+      "adst": 1608260400,
+      "is_advertised": false,
+      "rubr": "70348",
+      "source_type": 2
+    },
+    "structure_info": { "material": "Дерево" },
+    "timezone_offset": 480,
+    "type": "branch"
+  },
+  {
+    "address": {
+      "building_id": "70030076342585508",
+      "components": [{ "comment": "Ольхонский район", "type": "location" }],
+      "postcode": "666135"
+    },
+    "address_comment": "местность Шида, бухта Шида",
+    "adm_div": [
+      { "id": "1", "name": "Россия", "type": "country" },
+      {
+        "id": "1267655302447152",
+        "name": "Иркутская область",
+        "type": "region"
+      },
+      {
+        "id": "1549125984190544",
+        "name": "Ольхонский район",
+        "type": "district_area"
+      }
+    ],
+    "ads": {
+      "options": {
+        "buy_here": [
+          {
+            "actions": [
+              {
+                "caption": "Забронировать",
+                "name": "Забронировать",
+                "platforms": ["online"],
+                "type": "link",
+                "value": "http://link.2gis.ru/1.2/0476C450/online/20240701/project11/70000001061389843/null/5434333275041593599B54593AB13244335G47A6BG6GG4J81066BG5In5647G6B73351G30110224B7428644uvudc862J1314H1H4J8GG23G26HHIIJ3Jef?https://otello.ru/autologin?redirect_uri=https%3A%2F%2Fotello.ru%2Fd%2Fplusone%2Fhotel_id%3D1548640653261990%3Futm_campaign%3Dbook%26utm_medium%3Dreferral%26utm_source%3Dlink.2gis.ru&c40e6b07=autologin"
+              },
+              {
+                "caption": "Забронировать",
+                "name": "Забронировать",
+                "platforms": ["android"],
+                "type": "link",
+                "value": "http://link.2gis.ru/1.2/0476C450/online/20240701/project11/70000001061389843/null/5434333275041593599B54593AB13244335G47A6BG6GG4J81066BG5In5647G6B73351G30110224B7428644uvudc862J1314H1H4J8GG23G26HHIIJ3Jef?https://otello.ru/autologin?redirect_uri=https%3A%2F%2Fotello.ru%2Fd%2Fplusone%2Fhotel_id%3D1548640653261990%3Futm_campaign%3Dbook%26utm_medium%3Dreferral%26utm_source%3Dlink.2gis.ru&c40e6b07=autologin"
+              },
+              {
+                "caption": "Забронировать",
+                "name": "Забронировать",
+                "platforms": ["ios"],
+                "type": "link",
+                "value": "http://link.2gis.ru/1.2/0476C450/online/20240701/project11/70000001061389843/null/5434333275041593599B54593AB13244335G47A6BG6GG4J81066BG5In5647G6B73351G30110224B7428644uvudc862J1314H1H4J8GG23G26HHIIJ3Jef?https://otello.ru/autologin?redirect_uri=https%3A%2F%2Fotello.ru%2Fd%2Fplusone%2Fhotel_id%3D1548640653261990%3Futm_campaign%3Dbook%26utm_medium%3Dreferral%26utm_source%3Dlink.2gis.ru&c40e6b07=autologin"
+              },
+              {
+                "caption": "Забронировать",
+                "platforms": ["online"],
+                "type": "miniapp_otello",
+                "value": ""
+              },
+              {
+                "caption": "Забронировать",
+                "platforms": ["android"],
+                "type": "miniapp_otello",
+                "value": ""
+              },
+              {
+                "caption": "Забронировать",
+                "platforms": ["ios"],
+                "type": "miniapp_otello",
+                "value": ""
+              }
+            ],
+            "ads_id": "1178723271267817987",
+            "ads_texts": { "text": "", "text_warning": "0+. ООО «ДубльГИС»." },
+            "branch_id": "70000001061389843",
+            "cta_list": true,
+            "custom_title": "",
+            "hash": "5434333275041593599B51JJIHI33244335G47A6BG6GG4J810JIJ0J3n5647G6B73351G301102256363BA44uvudc862J1314H1H4JH5486417H66",
+            "is_primary": true,
+            "logo": {
+              "img_url": "https://ams2-cdn.2gis.com/previews/1141039312335273984/f9a1b534-d236-46cd-9c88-7619d9a6c6b6/1/ru/image.png"
+            },
+            "org_id": "70000001061389842",
+            "owned_rubric_id": "1178723271267817987",
+            "title": "Отелло, сервис бронирования отелей 2ГИС"
+          }
+        ]
+      }
+    },
+    "attribute_groups": [
+      {
+        "attributes": [
+          {
+            "id": "70000201006754255",
+            "name": "Проживание от 1000 ₽",
+            "tag": "hotel_prozhot"
+          },
+          {
+            "id": "70000201006748227",
+            "name": "2 звезды",
+            "tag": "hotel_class_2"
+          },
+          {
+            "id": "70000201006754548",
+            "name": "Завтрак",
+            "tag": "hotel_hotels_breakfast"
+          },
+          {
+            "id": "70000201006748200",
+            "name": "Можно с животными",
+            "tag": "hotel_details_animals"
+          },
+          {
+            "id": "70000201006748204",
+            "name": "Детский уголок",
+            "tag": "hotel_details_playground"
+          },
+          {
+            "id": "70000201006748216",
+            "name": "Тренажёрный зал",
+            "tag": "hotel_details_fitness_room"
+          },
+          {
+            "id": "70000201006748202",
+            "name": "Прачечная",
+            "tag": "hotel_details_laundry"
+          },
+          {
+            "id": "70000201006754181",
+            "name": "Беседки",
+            "tag": "hotel_details_gardenhouse"
+          },
+          {
+            "id": "70000201006754182",
+            "name": "На берегу",
+            "tag": "hotel_details_on_shore"
+          },
+          {
+            "id": "70000201006748207",
+            "name": "Пляж",
+            "tag": "hotel_details_private_beach"
+          },
+          {
+            "id": "70000201006749294",
+            "name": "Конференц-зал",
+            "tag": "hotel_details_conference_room"
+          }
+        ],
+        "icon_url": "https://disk.2gis.com/rubricator/hotels034b967873b09c77379059b49cf90b6e.svg",
+        "is_context": false,
+        "is_primary": true,
+        "name": "Пожить",
+        "rubric_ids": ["547", "52681", "269", "23469", "19487", "111005", "214"]
+      },
+      {
+        "attributes": [
+          {
+            "id": "70000201006756686",
+            "name": "Можно с детьми",
+            "tag": "pool_with_kids"
+          }
+        ],
+        "is_context": false,
+        "is_primary": true,
+        "name": "Бассейн",
+        "rubric_ids": ["547", "111005", "269"]
+      },
+      {
+        "attributes": [
+          {
+            "id": "70000201006748341",
+            "name": "До 150 мест",
+            "tag": "resort_house_capacity"
+          }
+        ],
+        "icon_url": "https://disk.2gis.com/rubricator/basesdd9c99a7ee4ca392dc0e77ad1b6b0624.svg",
+        "is_context": false,
+        "is_primary": true,
+        "name": "Базы отдыха",
+        "rubric_ids": ["23469", "547", "111005"]
+      },
+      {
+        "attributes": [
+          {
+            "id": "70000201006749100",
+            "name": "Аренда мангала",
+            "tag": "summer_house_roaster_rent"
+          }
+        ],
+        "is_context": false,
+        "is_primary": false,
+        "name": "Аренда беседок",
+        "rubric_ids": ["110305"]
+      },
+      {
+        "attributes": [
+          {
+            "id": "70000201006756646",
+            "name": "До 150 человек",
+            "tag": "conference_rooms_conference_room_capacity"
+          }
+        ],
+        "is_context": false,
+        "is_primary": false,
+        "name": "Конференц-залы",
+        "rubric_ids": ["17379"]
+      },
+      {
+        "attributes": [
+          {
+            "id": "70000201006756618",
+            "name": "Трансфер",
+            "tag": "additionally_services_airport_transfer"
+          },
+          {
+            "id": "70000201006756625",
+            "name": "Кафе",
+            "tag": "additionally_services_all_cafe"
+          }
+        ],
+        "icon_url": "https://disk.2gis.com/rubricator/hotels034b967873b09c77379059b49cf90b6e.svg",
+        "is_context": false,
+        "is_primary": true,
+        "name": "Дополнительно",
+        "rubric_ids": [
+          "269",
+          "547",
+          "52681",
+          "19487",
+          "111005",
+          "267",
+          "9965",
+          "405",
+          "9041",
+          "24353",
+          "70348",
+          "16743",
+          "110303",
+          "7689",
+          "51008",
+          "946",
+          "808",
+          "24472",
+          "110427",
+          "112877",
+          "112492",
+          "112878",
+          "110388",
+          "537",
+          "268",
+          "262"
+        ]
+      },
+      {
+        "attributes": [
+          {
+            "id": "70000201006750805",
+            "name": "Оплата картой",
+            "tag": "general_payment_type_card"
+          },
+          {
+            "id": "70000201006750769",
+            "name": "Наличный расчёт",
+            "tag": "general_payment_type_cash"
+          },
+          {
+            "id": "70000201006750775",
+            "name": "Оплата через банк",
+            "tag": "general_payment_type_bank"
+          },
+          {
+            "id": "70000201006756021",
+            "name": "Перевод с карты",
+            "tag": "general_payment_type_transfercard"
+          }
+        ],
+        "is_context": false,
+        "is_primary": false,
+        "name": "Способы оплаты",
+        "rubric_ids": []
+      }
+    ],
+    "city_alias": "irkutsk",
+    "contact_groups": [
+      {
+        "contacts": [
+          {
+            "type": "phone",
+            "text": "+7‒950‒090‒10‒80",
+            "print_text": "+7‒950‒090‒10‒80",
+            "value": "+79500901080"
+          },
+          {
+            "type": "website",
+            "text": "www.baikalw.ru",
+            "value": "http://link.2gis.ru/1.2/C23FCD1C/online/20240701/project11/1548640653261990/null/5543437A6BG24H2849IGG4GG32443395G6G41B7334471CA1qEpt7A858J137G6G1J066BG53344uv750415741885H2H3J8HHGJ1G9245B64?http://www.baikalw.ru",
+            "url": "http://www.baikalw.ru"
+          },
+          {
+            "type": "whatsapp",
+            "text": "https://wa.me/79500901080?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A",
+            "value": "https://wa.me/79500901080?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A",
+            "url": "https://wa.me/79500901080?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A"
+          },
+          {
+            "type": "viber",
+            "text": "viber://chat/?number=79500901080",
+            "value": "viber://chat/?number=79500901080",
+            "url": "viber://chat/?number=79500901080"
+          },
+          {
+            "type": "telegram",
+            "text": "https://t.me/+79500901080",
+            "value": "https://t.me/+79500901080",
+            "url": "https://t.me/+79500901080"
+          }
+        ]
+      },
+      {
+        "contacts": [
+          {
+            "type": "phone",
+            "text": "+7‒902‒763‒60‒06",
+            "print_text": "+7‒902‒763‒60‒06",
+            "value": "+79027636006"
+          },
+          {
+            "type": "vkontakte",
+            "text": "https://vk.com/baikalskiiveter",
+            "value": "https://vk.com/baikalskiiveter",
+            "url": "https://vk.com/baikalskiiveter"
+          },
+          {
+            "type": "whatsapp",
+            "text": "https://wa.me/79027636006?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A",
+            "value": "https://wa.me/79027636006?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A",
+            "url": "https://wa.me/79027636006?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A"
+          },
+          {
+            "type": "viber",
+            "text": "viber://chat/?number=79027636006",
+            "value": "viber://chat/?number=79027636006",
+            "url": "viber://chat/?number=79027636006"
+          },
+          {
+            "type": "telegram",
+            "text": "https://t.me/+79027636006",
+            "value": "https://t.me/+79027636006",
+            "url": "https://t.me/+79027636006"
+          }
+        ]
+      }
+    ],
+    "context": {},
+    "dates": { "updated_at": "2024-07-04T12:03:48.000Z" },
+    "email_for_sending": { "allowed": true },
+    "external_content": [
+      {
+        "count": 79,
+        "main_photo_url": "https://i6.photo.2gis.com/main/branch/11/1548640653261990/common",
+        "subtype": "common",
+        "type": "photo_album"
+      }
+    ],
+    "flags": { "photos": true },
+    "floors": { "ground_count": 1 },
+    "full_name": "База отдыха",
+    "geometry": {
+      "centroid": "POINT(106.793352 53.066134)",
+      "selection": "POINT(106.793352 53.066134)"
+    },
+    "group": [
+      { "id": "70030076342585508", "type": "building" },
+      { "id": "70030076342588144", "subtype": "place", "type": "adm_div" }
+    ],
+    "has_apartments_info": false,
+    "has_discount": false,
+    "has_dynamic_congestion": false,
+    "has_exchange": false,
+    "has_goods": true,
+    "has_pinned_goods": false,
+    "has_realty": false,
+    "id": "1548640653261990_5543437A6BG23H2849IGG0GG32443395G6G41B7334471CA1qEpt7A858J137G6G1J066BG53344uv750415741885H2H3J8HHGJ1G9245BfA",
+    "is_promoted": false,
+    "links": {
+      "database_entrances": [
+        {
+          "geometry": {
+            "normals": [
+              "LINESTRING(107.552605 53.717125,106.793358 53.066323)"
+            ],
+            "points": ["POINT(106.79335770657637 53.0663226732766)"],
+            "vectors": ["LINESTRING(106.793443 53.066396,106.793358 53.066323)"]
+          },
+          "id": "70030076633203621",
+          "is_primary": false,
+          "is_visible_on_map": true
+        },
+        {
+          "geometry": {
+            "normals": [
+              "LINESTRING(107.552949 53.716729,106.793366 53.066319)"
+            ],
+            "points": ["POINT(106.79336556683511 53.066319367141119)"],
+            "vectors": ["LINESTRING(106.793451 53.066393,106.793366 53.066319)"]
+          },
+          "id": "70030076912019864",
+          "is_primary": false,
+          "is_visible_on_map": true
+        }
+      ],
+      "entrances": [
+        {
+          "geometry": {
+            "normals": [
+              "LINESTRING(107.552605 53.717125,106.793358 53.066323)"
+            ],
+            "points": ["POINT(106.79335770657637 53.0663226732766)"],
+            "vectors": ["LINESTRING(106.793443 53.066396,106.793358 53.066323)"]
+          },
+          "id": "70030076633203621",
+          "is_primary": false,
+          "is_visible_on_map": true
+        },
+        {
+          "geometry": {
+            "normals": [
+              "LINESTRING(107.552949 53.716729,106.793366 53.066319)"
+            ],
+            "points": ["POINT(106.79336556683511 53.066319367141119)"],
+            "vectors": ["LINESTRING(106.793451 53.066393,106.793366 53.066319)"]
+          },
+          "id": "70030076912019864",
+          "is_primary": false,
+          "is_visible_on_map": true
+        }
+      ]
+    },
+    "locale": "ru_RU",
+    "name": "Байкальский ветер, база отдыха",
+    "name_ex": {
+      "extension": "база отдыха",
+      "primary": "Байкальский ветер",
+      "short_name": "Байкальский ветер"
+    },
+    "org": {
+      "branch_count": 1,
+      "id": "1548649242906213",
+      "name": "Байкальский ветер, база отдыха"
+    },
+    "poi_category": "hotel_rest",
+    "point": { "lat": 53.066134, "lon": 106.793352 },
+    "purpose_code": 4,
+    "purpose_name": "База отдыха",
+    "region_id": "11",
+    "reviews": {
+      "general_rating": 3.6,
+      "general_review_count": 47,
+      "general_review_count_with_stars": 56,
+      "is_reviewable": true,
+      "is_reviewable_on_flamp": true,
+      "items": [
+        { "is_reviewable": true, "tag": "2gis_reviews" },
+        {
+          "is_reviewable": true,
+          "rating": 5,
+          "review_count": 3,
+          "tag": "flamp"
+        }
+      ],
+      "org_rating": 3.6,
+      "org_review_count": 33,
+      "org_review_count_with_stars": 42,
+      "rating": 5,
+      "review_count": 3
+    },
+    "rubrics": [
+      {
+        "alias": "kempingi",
+        "id": "70348",
+        "kind": "additional",
+        "name": "Кемпинги",
+        "parent_id": "8",
+        "short_id": 70348
+      },
+      {
+        "alias": "bazy_otdykha",
+        "id": "547",
+        "kind": "primary",
+        "name": "Базы отдыха",
+        "parent_id": "8",
+        "short_id": 547
+      },
+      {
+        "alias": "konferenc_zaly_peregovornye_komnaty",
+        "id": "17379",
+        "kind": "additional",
+        "name": "Конференц-залы / Переговорные комнаты",
+        "parent_id": "9",
+        "short_id": 17379
+      },
+      {
+        "alias": "arenda_besedok",
+        "id": "110305",
+        "kind": "additional",
+        "name": "Аренда беседок",
+        "parent_id": "2",
+        "short_id": 110305
+      },
+      {
+        "alias": "bani_sauny",
+        "id": "946",
+        "kind": "additional",
+        "name": "Бани / Сауны",
+        "parent_id": "2",
+        "short_id": 946
+      }
+    ],
+    "schedule": {
+      "Fri": {
+        "working_hours": [
+          { "from": "09:00", "to": "13:00" },
+          { "from": "14:00", "to": "18:00" }
+        ]
+      },
+      "Mon": {
+        "working_hours": [
+          { "from": "09:00", "to": "13:00" },
+          { "from": "14:00", "to": "18:00" }
+        ]
+      },
+      "Thu": {
+        "working_hours": [
+          { "from": "09:00", "to": "13:00" },
+          { "from": "14:00", "to": "18:00" }
+        ]
+      },
+      "Tue": {
+        "working_hours": [
+          { "from": "09:00", "to": "13:00" },
+          { "from": "14:00", "to": "18:00" }
+        ]
+      },
+      "Wed": {
+        "working_hours": [
+          { "from": "09:00", "to": "13:00" },
+          { "from": "14:00", "to": "18:00" }
+        ]
+      }
+    },
+    "segment_id": "0",
+    "stat": {
+      "adst": 1608260400,
+      "is_advertised": false,
+      "rubr": "70348",
+      "source_type": 2
+    },
+    "structure_info": { "material": "Дерево" },
+    "timezone_offset": 480,
+    "type": "branch"
+  },
+  {
+    "address": {
+      "building_id": "70030076243462812",
+      "components": [
+        {
+          "number": "7",
+          "street": "Камыши местность",
+          "street_id": "70030076360024373",
+          "type": "street_number"
+        }
+      ],
+      "postcode": "664023"
+    },
+    "address_name": "Камыши местность, 7",
+    "adm_div": [
+      { "id": "1", "name": "Россия", "type": "country" },
+      {
+        "id": "1267655302447152",
+        "name": "Иркутская область",
+        "type": "region"
+      },
+      {
+        "id": "1549125984190544",
+        "name": "Ольхонский район",
+        "type": "district_area"
+      }
+    ],
+    "ads": {
+      "options": {
+        "buy_here": [
+          {
+            "actions": [
+              {
+                "caption": "Забронировать",
+                "name": "Забронировать",
+                "platforms": ["ios", "android", "online"],
+                "type": "link",
+                "value": "http://link.2gis.ru/1.2/79BF2C9E/online/20240701/project11/70000001069306932/null/543433327504159B516C43A5BHIH3244335G47A6BG6GG4J8135IJG55n5647G6B73351G3011022041649A44uvudc862J1313H1H4JHG700011HH4Ifc?https://travel.yandex.ru/hotels/irkutsk-oblast/zagorodnyi-otel-naratei/?affiliate_clid=2772064&utm_medium=cpa&utm_source=2gis"
+              }
+            ],
+            "ads_id": "1189456190780367104",
+            "ads_texts": { "text": "" },
+            "branch_id": "70000001069306932",
+            "cta_list": true,
+            "custom_title": "",
+            "hash": "543433327504159B516C43CJIHIH3244335G47A6BG6GG4J810JIJ0J9n5647G6B73351G30110220937B4844uvudc862J1313H1H4JH00000123H68",
+            "is_primary": true,
+            "logo": {
+              "img_url": "https://ams2-cdn.2gis.com/previews/1164376335536095235/e1176d5e-1efd-47fa-97d4-7ea7ea6865b4/1/ru/image.png"
+            },
+            "org_id": "70000001069306931",
+            "owned_rubric_id": "1189456190780367104",
+            "title": "Яндекс.Путешествия, интернет-портал"
+          }
+        ]
+      }
+    },
+    "attribute_groups": [
+      {
+        "attributes": [
+          {
+            "id": "70000201006754255",
+            "name": "Проживание от 1600 ₽",
+            "tag": "hotel_prozhot"
+          },
+          {
+            "id": "70000201006756549",
+            "name": "Без звёзд",
+            "tag": "hotel_class_without_stars"
+          },
+          {
+            "id": "70000201006754548",
+            "name": "Завтрак",
+            "tag": "hotel_hotels_breakfast"
+          },
+          {
+            "id": "70000201006748200",
+            "name": "Можно с животными",
+            "tag": "hotel_details_animals"
+          },
+          {
+            "id": "70000201006748212",
+            "name": "Сауны",
+            "tag": "hotel_details_sauna"
+          },
+          {
+            "id": "70000201006755991",
+            "name": "Бани",
+            "tag": "hotel_details_bathhouse"
+          },
+          {
+            "id": "70000201006748204",
+            "name": "Детский уголок",
+            "tag": "hotel_details_playground"
+          },
+          {
+            "id": "70000201006748216",
+            "name": "Тренажёрный зал",
+            "tag": "hotel_details_fitness_room"
+          },
+          {
+            "id": "70000201006748202",
+            "name": "Прачечная",
+            "tag": "hotel_details_laundry"
+          },
+          {
+            "id": "70000201006754181",
+            "name": "Беседки",
+            "tag": "hotel_details_gardenhouse"
+          },
+          {
+            "id": "70000201006748218",
+            "name": "Банкетный зал",
+            "tag": "hotel_details_banquet"
+          },
+          {
+            "id": "70000201006749294",
+            "name": "Конференц-зал",
+            "tag": "hotel_details_conference_room"
+          },
+          {
+            "id": "70000201006748217",
+            "name": "Своя парковка",
+            "tag": "hotel_details_parking"
+          },
+          {
+            "id": "70000201006748206",
+            "name": "Сейф",
+            "tag": "hotel_details_safe"
+          },
+          {
+            "id": "70000201006748203",
+            "name": "Хранение багажа",
+            "tag": "hotel_details_baggage_storage"
+          }
+        ],
+        "icon_url": "https://disk.2gis.com/rubricator/hotels034b967873b09c77379059b49cf90b6e.svg",
+        "is_context": false,
+        "is_primary": true,
+        "name": "Пожить",
+        "rubric_ids": ["547", "52681", "269", "23469", "19487", "111005", "214"]
+      },
+      {
+        "attributes": [
+          {
+            "id": "70000201006756102",
+            "name": "С подогревом",
+            "tag": "pool_warmswimming_pool"
+          },
+          {
+            "id": "70000201006748312",
+            "name": "Для взрослых",
+            "tag": "pool_adult"
+          },
+          {
+            "id": "70000201006756686",
+            "name": "Можно с детьми",
+            "tag": "pool_with_kids"
+          },
+          { "id": "70000201006748315", "name": "Крытый", "tag": "pool_indoor" },
+          {
+            "id": "70000201006748319",
+            "name": "Открытый",
+            "tag": "pool_outdoor"
+          }
+        ],
+        "is_context": false,
+        "is_primary": true,
+        "name": "Бассейн",
+        "rubric_ids": ["547", "111005", "261", "269"]
+      },
+      {
+        "attributes": [
+          {
+            "id": "70000201006748341",
+            "name": "До 400 мест",
+            "tag": "resort_house_capacity"
+          }
+        ],
+        "icon_url": "https://disk.2gis.com/rubricator/basesdd9c99a7ee4ca392dc0e77ad1b6b0624.svg",
+        "is_context": false,
+        "is_primary": true,
+        "name": "Базы отдыха",
+        "rubric_ids": ["23469", "547", "111005"]
+      },
+      {
+        "attributes": [
+          {
+            "id": "70000201006748560",
+            "name": "Wi-Fi",
+            "tag": "additionally_services_wifi"
+          },
+          {
+            "id": "70000201006756618",
+            "name": "Трансфер",
+            "tag": "additionally_services_airport_transfer"
+          },
+          {
+            "id": "70000201006756625",
+            "name": "Кафе",
+            "tag": "additionally_services_all_cafe"
+          }
+        ],
+        "icon_url": "https://disk.2gis.com/rubricator/hotels034b967873b09c77379059b49cf90b6e.svg",
+        "is_context": false,
+        "is_primary": true,
+        "name": "Дополнительно",
+        "rubric_ids": [
+          "305",
+          "111593",
+          "15791",
+          "652",
+          "162",
+          "110351",
+          "51459",
+          "165",
+          "173",
+          "611",
+          "547",
+          "18547",
+          "110357",
+          "269",
+          "110352",
+          "405",
+          "110998",
+          "111005",
+          "159",
+          "161",
+          "19499",
+          "166",
+          "52681",
+          "110346",
+          "112658",
+          "164",
+          "7689",
+          "72370",
+          "19487",
+          "267",
+          "9965",
+          "9041",
+          "24353",
+          "70348",
+          "16743",
+          "110303",
+          "51008",
+          "946",
+          "808",
+          "24472",
+          "110427",
+          "112877",
+          "112492",
+          "112878",
+          "110388",
+          "537",
+          "268",
+          "262"
+        ]
+      },
+      {
+        "attributes": [
+          {
+            "id": "70000201006750805",
+            "name": "Оплата картой",
+            "tag": "general_payment_type_card"
+          },
+          {
+            "id": "70000201006750769",
+            "name": "Наличный расчёт",
+            "tag": "general_payment_type_cash"
+          },
+          {
+            "id": "70000201006750775",
+            "name": "Оплата через банк",
+            "tag": "general_payment_type_bank"
+          },
+          {
+            "id": "70000201006756648",
+            "name": "Оплата по QR-коду",
+            "tag": "general_payment_type_qrcode"
+          }
+        ],
+        "is_context": false,
+        "is_primary": false,
+        "name": "Способы оплаты",
+        "rubric_ids": []
+      }
+    ],
+    "contact_groups": [
+      {
+        "contacts": [
+          {
+            "type": "phone",
+            "text": "+7‒908‒647‒67‒06",
+            "print_text": "+7‒908‒647‒67‒06",
+            "value": "+79086476706"
+          },
+          {
+            "type": "phone",
+            "text": "+7 (3952) 23‒48‒88",
+            "print_text": "+7 (3952) 23‒48‒88",
+            "value": "+73952234888"
+          },
+          {
+            "type": "website",
+            "text": "naratey-baikal.ru",
+            "value": "http://link.2gis.ru/1.2/5B0780AA/online/20240701/project11/70000001062792729/null/5543437A6BG24H83016GGGGG32443395G6G41B7334489583qEpt7A858J137G6G1JG64JGJ3344uv750415101338AH8J3HH1G41?http://naratey-baikal.ru",
+            "url": "http://naratey-baikal.ru"
+          },
+          {
+            "url": "http://t.me/narateyhotel",
+            "text": "Перейти в Telegram-канал",
+            "print_text": "t.me/narateyhotel",
+            "type": "website",
+            "value": "http://link.2gis.ru/1.2/8F5DD0D1/online/20240701/project11/70000001062792729/null/5543437A6BG24H83016GGGGG32443395G6G41B7334489583qEpt7A858J137G6G1JG64JGJ3344uv750415101338AH8J3HH1G41?http://t.me/narateyhotel"
+          },
+          {
+            "type": "whatsapp",
+            "text": "https://wa.me/79025168811?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A",
+            "value": "https://wa.me/79025168811?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A",
+            "url": "https://wa.me/79025168811?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A"
+          },
+          {
+            "type": "viber",
+            "text": "viber://chat/?number=79025168811",
+            "value": "viber://chat/?number=79025168811",
+            "url": "viber://chat/?number=79025168811"
+          },
+          {
+            "type": "telegram",
+            "text": "https://t.me/+79025168811",
+            "value": "https://t.me/+79025168811",
+            "url": "https://t.me/+79025168811"
+          }
+        ]
+      }
+    ],
+    "context": {},
+    "dates": { "updated_at": "2024-07-03T12:59:43.000Z" },
+    "external_content": [
+      {
+        "count": 7,
+        "main_photo_url": "https://i5.photo.2gis.com/main/branch/11/70000001062792729/common",
+        "subtype": "common",
+        "type": "photo_album"
+      }
+    ],
+    "flags": { "photos": true },
+    "has_apartments_info": false,
+    "has_discount": false,
+    "has_dynamic_congestion": false,
+    "has_exchange": false,
+    "has_goods": true,
+    "has_pinned_goods": true,
+    "has_realty": false,
+    "id": "70000001062792729_5543437A6BG23H83012GGGGG32443395G6G41B7334489583qEpt7A858J137G6G1JG64JGJ3344uv750415101338AH8J3HH1Gfg",
+    "is_promoted": false,
+    "links": {
+      "database_entrances": [
+        {
+          "geometry": {
+            "normals": ["LINESTRING(107.55243 52.320541,106.844144 53.026466)"],
+            "points": ["POINT(106.84414369166949 53.026465713168456)"],
+            "vectors": ["LINESTRING(106.844221 53.026389,106.844144 53.026466)"]
+          },
+          "id": "70030076412505455",
+          "is_primary": true,
+          "is_visible_on_map": true
+        }
+      ],
+      "entrances": [
+        {
+          "geometry": {
+            "normals": ["LINESTRING(107.55243 52.320541,106.844144 53.026466)"],
+            "points": ["POINT(106.84414369166949 53.026465713168456)"],
+            "vectors": ["LINESTRING(106.844221 53.026389,106.844144 53.026466)"]
+          },
+          "id": "70030076412505455",
+          "is_primary": true,
+          "is_visible_on_map": true
+        }
+      ]
+    },
+    "locale": "ru_RU",
+    "name": "Наратэй, кемпинг-отель",
+    "name_ex": {
+      "extension": "кемпинг-отель",
+      "primary": "Наратэй",
+      "short_name": "Наратэй"
+    },
+    "org": {
+      "branch_count": 1,
+      "id": "70000001062792728",
+      "name": "Наратэй, кемпинг-отель"
+    },
+    "poi_category": "hotel_rest",
+    "point": { "lat": 53.026473, "lon": 106.844136 },
+    "region_id": "11",
+    "reviews": {
+      "general_rating": 2.8,
+      "general_review_count": 9,
+      "general_review_count_with_stars": 18,
+      "is_reviewable": true,
+      "is_reviewable_on_flamp": true,
+      "items": [
+        { "is_reviewable": true, "tag": "2gis_reviews" },
+        { "is_reviewable": true, "tag": "flamp" }
+      ],
+      "org_rating": 2.8,
+      "org_review_count": 9,
+      "org_review_count_with_stars": 18
+    },
+    "rubrics": [
+      {
+        "alias": "bazy_otdykha",
+        "id": "547",
+        "kind": "primary",
+        "name": "Базы отдыха",
+        "parent_id": "8",
+        "short_id": 547
+      }
+    ],
+    "schedule": {
+      "Fri": { "working_hours": [{ "from": "08:00", "to": "23:00" }] },
+      "Mon": { "working_hours": [{ "from": "08:00", "to": "23:00" }] },
+      "Sat": { "working_hours": [{ "from": "08:00", "to": "23:00" }] },
+      "Sun": { "working_hours": [{ "from": "08:00", "to": "23:00" }] },
+      "Thu": { "working_hours": [{ "from": "08:00", "to": "23:00" }] },
+      "Tue": { "working_hours": [{ "from": "08:00", "to": "23:00" }] },
+      "Wed": { "working_hours": [{ "from": "08:00", "to": "23:00" }] }
+    },
+    "segment_id": "0",
+    "stat": { "adst": 1608260400, "is_advertised": false, "source_type": 32 },
+    "timezone_offset": 480,
+    "type": "branch"
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [107.4318078, 53.3997401],
+            [107.4326956, 53.3990877],
+            [107.4337979, 53.3995434],
+            [107.4327465, 53.4001887],
+            [107.4318078, 53.3997401]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Кемпинг Иркутского радиозавода (ru)",
+        "type": "camping",
+        "transUrl": "https://translate.google.fr/?hl=en#undefined/en/%D0%9A%D0%B5%D0%BC%D0%BF%D0%B8%D0%BD%D0%B3%20%D0%98%D1%80%D0%BA%D1%83%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%80%D0%B0%D0%B4%D0%B8%D0%BE%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0%20(ru)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [107.4833035, 53.4636278],
+            [107.4830461, 53.4633084],
+            [107.4857175, 53.4626442],
+            [107.4859107, 53.4627783],
+            [107.4843228, 53.4635192],
+            [107.4833035, 53.4636278]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "База отдыха (ru)",
+        "type": "camping",
+        "transUrl": "https://translate.google.fr/?hl=en#undefined/en/%D0%91%D0%B0%D0%B7%D0%B0%20%D0%BE%D1%82%D0%B4%D1%8B%D1%85%D0%B0%20(ru)"
+      }
+    }
+  ]
+}

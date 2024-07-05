@@ -1,0 +1,70 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display a map</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@v8.2.0/ol.css">
+    <script src="https://cdn.jsdelivr.net/npm/ol@v8.2.0/dist/ol.js"></script>
+    <style>
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    #map {
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+    }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <script>
+    const key = 'edu5zLzkPzaxg2v4ZWUW';
+
+    const attribution = new ol.control.Attribution({
+        collapsible: false,
+    });
+
+    const source = new ol.source.TileJSON({
+        url: `https://api.maptiler.com/maps/streets-v2/tiles.json?key=${key}`,
+        tileSize: 512,
+        crossOrigin: 'anonymous'
+    });
+
+    const map = new ol.Map({
+        layers: [
+        new ol.layer.Tile({
+            source: source
+        })
+        ],
+        controls: ol.control.defaults.defaults({attribution: false}).extend([attribution]),
+        target: 'map',
+        view: new ol.View({
+        constrainResolution: true,
+        center: ol.proj.fromLonLat([16.62662018, 49.2125578]),
+        zoom: 14
+        })
+    });
+
+    const baikal = new ol.layer.Vector({
+        source: new ol.source.Vector({
+        url: `https://api.maptiler.com/data/6fa34039-3bfd-41da-b24a-47e486fbfc12/features.json?key=ghgoBIMLjAkBFUjobLGu`,
+        format: new ol.format.GeoJSON(),
+        }),
+        style: new ol.style.Style({
+        stroke: new ol.style.Stroke({
+            color: 'rgba(0, 136, 136, 0.8)',
+        }),
+        fill: new ol.style.Fill({
+        color: 'rgba(0, 136, 136, 0.8)',
+        }),
+        })
+    });
+    map.addLayer(layer);
+    </script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [103.8110214, 51.6199532],
+            [103.8108605, 51.6197684],
+            [103.8113218, 51.6196169],
+            [103.8114935, 51.6198367],
+            [103.8110214, 51.6199532]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Кемпинг «Юрт» (ru)",
+        "type": "camping",
+        "transUrl": "https://translate.google.fr/?hl=en#undefined/en/%D0%9A%D0%B5%D0%BC%D0%BF%D0%B8%D0%BD%D0%B3%20%C2%AB%D0%AE%D1%80%D1%82%C2%BB%20(ru)"
+      }
+    }
+  ]
+}
